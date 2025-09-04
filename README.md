@@ -16,5 +16,5 @@ This repo is dedicated to sharing resources, code, documentation, and ideas that
 ## 👥 Team
 - Team Name: **DEVIANS**
 - Event: **SIH 2025 Hackathon**
-- Members: *{Kaif, Darshit Shrivastava,Keerti Singh, Aishneeka Gandhi, Shagun Sharma, Muaz Alam,} *
+- Members: *[Kaif, Darshit Shrivastava, Keerti Singh, Aishneeka Gandhi, Shagun Sharma, Muaz Alam,] *
 
